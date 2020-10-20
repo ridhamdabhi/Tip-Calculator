@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tip_Calculator</string>
+    <string name="amount_TextView">Invoice Amount</string>
+    <string name="amount_hint">Enter Amount</string>
+    <string name="dollar_sign">$</string>
+    <string name="tipP_TextView">Tip %</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">–</string>
+    <string name="partysize_TextView">Number of people</string>
+    <string name="tip_TextView">Tip Amount</string>
+    <string name="total_TextView">Total Amount</string>
+    <string name="perperson_TextView">Total per person</string>
+    <string name="minTipPercent">0%</string>
+    <string name="maxTipPercent">25%</string>
+    <string name="minPartySize">1</string>
+    <string name="maxPartySize">20</string>
+    <string name="ClearButton">Clear</string>
+    <string name="CalculateButton">Calculate</string>
+    <string name="Btn_1">1</string>
+    <string name="Btn_2">2</string>
+    <string name="Btn_3">3</string>
+    <string name="Btn_4">4</string>
+    <string name="Btn_5">5</string>
+    <string name="Btn_6">6</string>
+    <string name="Btn_7">7</string>
+    <string name="Btn_8">8</string>
+    <string name="Btn_9">9</string>
+    <string name="Btn_0">0</string>
+    <string name="Btn_point">.</string>
+    <string name="BackDesc">Backspace</string>
+</resources>
